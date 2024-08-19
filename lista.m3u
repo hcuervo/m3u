@@ -6,4 +6,4 @@ https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 
 #EXTINF:-1 tvg-id="eltrece.ar", tvg-logo="" group-title="News",EL TRECE
-rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
