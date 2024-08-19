@@ -5,5 +5,5 @@ https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 tvg-id="telefe.ar", tvg-logo="" group-title="News",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 
-#EXTINF:-1 tvg-id="eltrece.ar", tvg-logo="" group-title="News",EL TRECE
+#EXTINF:-1 tvg-id="eltrecetv.ar", tvg-logo="" group-title="News",EL TRECE 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
