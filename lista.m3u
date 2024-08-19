@@ -3,4 +3,6 @@
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
 #EXTINF:-1 tvg-id="telefe.ar", tvg-logo="" group-title="News",TELEFE
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=d2e4da55f71a660a287270d808d0e69595720d91992c437e3f61fef0b25c7120
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+
+
