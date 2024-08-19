@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-id="A24.ar", tvg-logo="" group-title="News",A24
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
-#EXTINF:-1 tvg-id="telefe.ar", tvg-logo="" group-title="News",TELEFE
+#EXTINF:-1 tvg-id="telefe.ar", tvg-logo="" group-title="General",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 
-#EXTINF:-1 tvg-id="eltrecetv.ar", tvg-logo="" group-title="News",EL TRECE 
+#EXTINF:-1 tvg-id="eltrecetv.ar", tvg-logo="" group-title="General",EL TRECE 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="tn.ar", tvg-logo="" group-title="News",Todo Noticias
