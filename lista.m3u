@@ -2,5 +2,5 @@
 #EXTINF:-1 tvg-id="A24.ar", tvg-logo="" group-title="News",A24
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTV.ar", tvg-logo="" group-title="News",AmericaTV
-https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
+#EXTINF:-1 tvg-id="telefe.ar", tvg-logo="" group-title="News",TELEFE
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8
