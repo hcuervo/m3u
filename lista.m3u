@@ -22,3 +22,6 @@ https://cdn9.en-vivo.info/espnpremium/tracks-v1a1/mono.m3u8?remote=181.92.232.15
 
 #EXTINF:-1 tvg-id="tycsports.ar", tvg-logo="" group-title="Sports",TyCSports
 https://cdn10.en-vivo.info/tycsports/tracks-v1a1/mono.m3u8?remote=181.92.232.158&token=64fcb8ff6b7c39bcea3ab76f12b5be9b802a5776-f821d0bf87da74fee46db960ddf13f0f-1724170264-1724159464
+
+#EXTINF:-1 tvg-id="directvsports.ar", tvg-logo="" group-title="Sports",DirecTV Sports
+https://cdn12.en-vivo.info/dsports/tracks-v1a1/mono.m3u8?remote=181.92.232.158&token=ef4118a4927882139874076b44e916d3b206a1a1-e32a119972f835da6f155e6007d35cd9-1724171677-1724160877
