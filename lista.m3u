@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="A24.ar", tvg-logo="" group-title="News",A24
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
-#EXTINF:-1 tvg-id="TVP.ar", tvg-logo="" group-title="News",TV Publica (AR)
+#EXTINF:-1 tvg-id="TVP.ar", tvg-logo="" group-title="General",TV Publica (AR)
 https://agl2zq.la10tv.com/lb/tvpublica/index.m3u8?token=b69f24eee02c852fa0f034fb58a1bd868666028b-a95af5bb807040c25198c8d7d859f749-1724203782-1724167782&remote=181.92.232.158
 
 #EXTINF:-1 tvg-id="telefe.ar", tvg-logo="" group-title="General",TELEFE
