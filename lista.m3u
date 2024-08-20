@@ -8,8 +8,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 #EXTINF:-1 tvg-id="eltrecetv.ar", tvg-logo="" group-title="General",El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="tn.ar", tvg-logo="" group-title="News",Todo Noticias
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="elnueve.ar", tvg-logo="" group-title="General",El Nueve TV
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CsIFC3dUgn7VyrE7iHScXKI4lQsreucicnk-7E668oJOLJJD6kN-BKJtaQATyLZScgGXuDcpjNjMeng5T4LM1Yrd4Kj5ti0rpim_LMCIRkrohawFq_ZuIc9UbdMAU40lRf9R3ZshGX_8iXTm8Pkg0qXSh4vbYkm8wEpCBJ6Y2UWgmqJxf19CZKudG7C4ysLYaKsDlwMTpV9FtBDFFaM44wKRlos5fqmbSG8dXPWf9nEAWAM0DpMxISMyV1ob98DnFyCDwffZl18kIFsiwCwkBNlndAeLQLqP6W_GlolLkarDi0qwiQQyYCEQE9ttzmr8XtIkvtzSntvYmFR_Rc5NgLGhhg2jb3z_ghA-x5FnaggwO6oi4A8AQIWoqz8GPNt0-ZlpY9GFjyvtA3ipV9yXLVutEVRlPbK58uJX7ncVkIT8nHpKiQdvly_AlvYdhfmuw9RA3PqLDIyz8oLvF0U-O2RpTnlO8P0Ha8qq3Gu4pjbXZQQodzX4PcklIgIJOW1WuxiIJteLXe9FfwN2cpPsWGqksFzvnMqXa56bK5BPxTQ0HldIc2LRorUg7zcVNMHJoxcgsIMZeXbhXQRuFS9n34fE8DEURHZ8bm23Pmo_RnrRC6GdJHjk9v4Yno5USaZaJB5srZHIj68R9nvFwFV0bQKKJxytiUvPtOMZQifKVp_fYcJU5SCKDgw_acwe_k2_RCxLgLw2TToUAE5UaKzfRXYsYMcBTWD2tWh4zShpAXOQLd8nn8CbTGEIBFIFSn33mV5D4sa5KyQF0y2A50MxfemFjN39ZKYUGDY2Nsr4YFWduE4dBRq8Q-AnKo_TC8wbs5JOuKto3cbCoKIZC56i7y36Z7t2F3qDkeAB2_xA0SL7z3DquMJQJyzk1oGu_X-C3ltTrQ1NZE7-KYHScps1oCV-6RitSN9jOMMIzHkjd1TfShuOjBoMwQGJvezIVZ3zt6mhIAEqCXVzLWVhc3QtMTDNCA.m3u8
+
+#EXTINF:-1 tvg-id="tn.ar", tvg-logo="" group-title="General",TN - Todo Noticias
+https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
