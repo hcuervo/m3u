@@ -13,3 +13,12 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CsIFC3dUgn7VyrE7iHScXKI4lQs
 
 #EXTINF:-1 tvg-id="tn.ar", tvg-logo="" group-title="General",TN - Todo Noticias
 https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+
+#EXTINF:-1 tvg-id="tntsports.ar", tvg-logo="" group-title="Sports",TNT SPORTS
+chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://cdn8.en-vivo.info/tntsports/tracks-v1a1/mono.m3u8?remote=181.92.232.158&token=b6785653488f6d80750bdc8f24743c2ab5c2c782-b5e5539e61538da78a515b3b1fbacd57-1724169519-1724158719
+
+#EXTINF:-1 tvg-id="espnpremium.ar", tvg-logo="" group-title="Sports",ESPN Premium
+https://cdn9.en-vivo.info/espnpremium/tracks-v1a1/mono.m3u8?remote=181.92.232.158&token=068fe8599a7b430a0f4ccd8fcf20394440f50676-bae576dd392580e4bc88c0af21fc569f-1724169827-1724159027
+
+#EXTINF:-1 tvg-id="tycsports.ar", tvg-logo="" group-title="Sports",TyCSports
+https://cdn10.en-vivo.info/tycsports/tracks-v1a1/mono.m3u8?remote=181.92.232.158&token=64fcb8ff6b7c39bcea3ab76f12b5be9b802a5776-f821d0bf87da74fee46db960ddf13f0f-1724170264-1724159464
