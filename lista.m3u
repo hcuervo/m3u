@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A24.ar", tvg-logo="" group-title="News",A24
-https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
 
 #EXTINF:-1 tvg-id="TVP.ar", tvg-logo="" group-title="General",TV Publica (AR)
 https://agl2zq.la10tv.com/lb/tvpublica/index.m3u8?token=b69f24eee02c852fa0f034fb58a1bd868666028b-a95af5bb807040c25198c8d7d859f749-1724203782-1724167782&remote=181.92.232.158
@@ -28,3 +27,6 @@ https://cdn10.en-vivo.info/tycsports/tracks-v1a1/mono.m3u8?remote=181.92.232.158
 
 #EXTINF:-1 tvg-id="directvsports.ar", tvg-logo="" group-title="Sports",DirecTV Sports
 https://cdn12.en-vivo.info/dsports/tracks-v1a1/mono.m3u8?remote=181.92.232.158&token=ef4118a4927882139874076b44e916d3b206a1a1-e32a119972f835da6f155e6007d35cd9-1724171677-1724160877
+
+#EXTINF:-1 tvg-id="A24.ar", tvg-logo="" group-title="News",A24
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
