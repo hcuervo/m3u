@@ -30,3 +30,7 @@ https://cdn12.en-vivo.info/dsports/tracks-v1a1/mono.m3u8?remote=181.92.232.158&t
 
 #EXTINF:-1 tvg-id="A24.ar", tvg-logo="" group-title="News",A24
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
+#EXTINF:-1, TNT Sports Argentina
+https://rm8zcvk3.fubohd.com/tntsports/mono.m3u8?token=eb4ccdafa3c26df00a438f408afcb8cb36abf008-d9-1760740112-1760722112
+
